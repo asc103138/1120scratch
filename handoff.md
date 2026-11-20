@@ -1,12 +1,12 @@
 # handoff.md
 
 ## 最後更新
-- 日期：2026-11-19
+- 日期：2026-11-20
 
 ## 目前進度
 - [x] RDQ 需求訪談與規格確認（`rdq/RDQ-spec-prince-arrows-act1-20261119.md`、`rdq/RDQ-spec-prince-arrows-act1-v2-20261119.md`）
 - [x] 完成專案初始化（`AGENTS.md`、`ANTIGRAVITY.md`、`README.md`、`.gitignore`、GitHub Repo、Obsidian 駕駛艙）
-- [x] 完成 5 節課 18 頁 Reveal.js 互動教學簡報（`prince-arrows-slides/index.html`），全數 18 頁皆已套用 AI 生圖背景底圖（並已將「每頁皆須生成背景」寫入全域 `html-slide-builder` 技能規範；受限於目前生圖額度上限，已產出 7 張獨立 AI 底圖並全頁覆蓋，剩餘 11 頁可於額度重置後補齊獨立圖）、`.sb3` 真實角色與舞台資產截圖、Firebase 文字雲與投票、滑桿視覺化對比，並部署至 GitHub Pages（`https://asc103138.github.io/prince-arrows-slides/`）
+- [x] 完成 5 節課 18 頁 Reveal.js 互動教學簡報（`prince-arrows-slides/index.html`），全數 18 頁皆已套用 AI 生圖背景底圖（目前已產出 10 張獨立 AI 底圖：封面、Slide 2、5、6、7、10、11、12、15、18，其餘 8 頁暫以既有底圖覆蓋，待生圖額度重置後補齊 Slide 3、4、8、9、13、14、16、17）、`.sb3` 真實角色與舞台資產截圖、Firebase 文字雲與投票、滑桿視覺化對比，並部署至 GitHub Pages（`https://asc103138.github.io/prince-arrows-slides/`）
 - [x] 完成課本插畫風格與 TTS 分聲優化版：
   - `王子折箭_第一幕_教師完整版.sb3`（7 targets、19 assets、21 則中文教學註解、四位王子輪流現身）
   - `學生第1節_起始與定位.sb3` ～ `學生第5節_耳語離場待完成.sb3`（零註解、不預組裝、僅預留該節 `朗讀` 積木）
